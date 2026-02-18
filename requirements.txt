@@ -1,8 +1,7 @@
-sys
-csv
-random
-numpy
 pandas
-re
-matplotlib.pyplot
+numpy
 seaborn
+matplotlib
+scikit-learn
+graphviz
+pydotplus
