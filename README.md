@@ -14,24 +14,6 @@ The workflow includes:
 
 ---
 
-## ▶️ How to Reproduce
-
-1. Clone the repository
-```
-git clone https://github.com/sunggu-park/City-Prediction.git
-cd City-Prediction
-```
-
-3. Install required dependencies
-```
-pip install -r requirements.txt
-```
-
-4. Run preprocessing and training:
-   python main.py
-
----
-
 ## 🗂️ Dataset
 **Source**: [Survey data](clean_dataset.csv) collected for this project  
 **Size**: 1,469 rows × 12 columns  
